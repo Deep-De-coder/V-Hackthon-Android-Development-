@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668881759487",
+    "firebase_url": "https://vhackthon.firebaseio.com",
+    "project_id": "vhackthon",
+    "storage_bucket": "vhackthon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668881759487:android:ce0d2babe2ca98fb8af0ca",
+        "android_client_info": {
+          "package_name": "com.example.vhackthon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668881759487-46n862p79i236j3e7s8jkf4r50nvp6fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vhackthon",
+            "certificate_hash": "fb63a91bcbd42a25010c631297f07599703e2b11"
+          }
+        },
+        {
+          "client_id": "668881759487-0mhd253l3bfk3fcioeqk4h2c438dss5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwhq6ZOG27gCwj2hfZwB9aUm-3QqhQ2xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668881759487-0mhd253l3bfk3fcioeqk4h2c438dss5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
